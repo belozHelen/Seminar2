@@ -1,0 +1,5 @@
+/Users/elenagrigoreva/Documents/GitHub/Seminar2/Функции и массивы/obj/Debug/net6.0/Функции и массивы.csproj.AssemblyReference.cache
+/Users/elenagrigoreva/Documents/GitHub/Seminar2/Функции и массивы/obj/Debug/net6.0/Функции и массивы.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elenagrigoreva/Documents/GitHub/Seminar2/Функции и массивы/obj/Debug/net6.0/Функции и массивы.AssemblyInfoInputs.cache
+/Users/elenagrigoreva/Documents/GitHub/Seminar2/Функции и массивы/obj/Debug/net6.0/Функции и массивы.AssemblyInfo.cs
+/Users/elenagrigoreva/Documents/GitHub/Seminar2/Функции и массивы/obj/Debug/net6.0/Функции и массивы.csproj.CoreCompileInputs.cache
