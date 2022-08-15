@@ -3,3 +3,13 @@
 /Users/elenagrigoreva/Documents/GitHub/Seminar2/Функции и массивы/obj/Debug/net6.0/Функции и массивы.AssemblyInfoInputs.cache
 /Users/elenagrigoreva/Documents/GitHub/Seminar2/Функции и массивы/obj/Debug/net6.0/Функции и массивы.AssemblyInfo.cs
 /Users/elenagrigoreva/Documents/GitHub/Seminar2/Функции и массивы/obj/Debug/net6.0/Функции и массивы.csproj.CoreCompileInputs.cache
+/Users/elenagrigoreva/Documents/GitHub/Seminar2/Функции и массивы/bin/Debug/net6.0/Функции и массивы
+/Users/elenagrigoreva/Documents/GitHub/Seminar2/Функции и массивы/bin/Debug/net6.0/Функции и массивы.deps.json
+/Users/elenagrigoreva/Documents/GitHub/Seminar2/Функции и массивы/bin/Debug/net6.0/Функции и массивы.runtimeconfig.json
+/Users/elenagrigoreva/Documents/GitHub/Seminar2/Функции и массивы/bin/Debug/net6.0/Функции и массивы.dll
+/Users/elenagrigoreva/Documents/GitHub/Seminar2/Функции и массивы/bin/Debug/net6.0/Функции и массивы.pdb
+/Users/elenagrigoreva/Documents/GitHub/Seminar2/Функции и массивы/obj/Debug/net6.0/Функции и массивы.dll
+/Users/elenagrigoreva/Documents/GitHub/Seminar2/Функции и массивы/obj/Debug/net6.0/refint/Функции и массивы.dll
+/Users/elenagrigoreva/Documents/GitHub/Seminar2/Функции и массивы/obj/Debug/net6.0/Функции и массивы.pdb
+/Users/elenagrigoreva/Documents/GitHub/Seminar2/Функции и массивы/obj/Debug/net6.0/Функции и массивы.genruntimeconfig.cache
+/Users/elenagrigoreva/Documents/GitHub/Seminar2/Функции и массивы/obj/Debug/net6.0/ref/Функции и массивы.dll
